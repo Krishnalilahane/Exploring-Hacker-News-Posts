@@ -19,6 +19,9 @@ The dataset used in this analysis includes:
 - **Type:** Type of post (e.g., comment, story).
 - **Other Metadata:** Includes fields like parent, descendants, ranking, deleted status, and timestamp.
 
+## Dataset Download:
+You can download the dataset from Kaggle - [Hacker News Posts](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts).
+
 ## Installation
 
 To set up the project locally, follow these steps:
